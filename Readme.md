@@ -30,4 +30,4 @@ FinGuard offers two distinct strategies to match different business risk appetit
 * **Framework:** Streamlit (Frontend Dashboard)
 * **ML/DL:** XGBoost, TensorFlow/Keras (ANN), Scikit-Learn
 * **Data Handling:** Pandas, NumPy, Joblib (Model Serialization)
-* https://finguard-detection-system.onrender.com
+* https://finguard-detection-system-1.onrender.com
