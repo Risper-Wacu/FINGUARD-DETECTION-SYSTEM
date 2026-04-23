@@ -1,3 +1,5 @@
+🔗 Live Demo: https://finguard-detection-system-1.onrender.com
+
 # FinGuard Elite - Real-Time Fraud Detection Intelligence
 
 In the fast-paced world of fintech, **FinGuard Analytics** serves as a shield against digital theft. This project implements a high-fidelity fraud detection engine capable of identifying fraudulent patterns in real-time, despite the extreme challenge of highly imbalanced data.
@@ -30,4 +32,3 @@ FinGuard offers two distinct strategies to match different business risk appetit
 * **Framework:** Streamlit (Frontend Dashboard)
 * **ML/DL:** XGBoost, TensorFlow/Keras (ANN), Scikit-Learn
 * **Data Handling:** Pandas, NumPy, Joblib (Model Serialization)
-* https://finguard-detection-system-1.onrender.com
