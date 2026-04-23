@@ -20,8 +20,6 @@ Financial fraud cases represent less than **0.2%** of all transactions. Standard
 ## Model Performance & Trade-offs
 FinGuard offers two distinct strategies to match different business risk appetites:
 
-| Model | Strategy | Primary Benefit |
-| :--- | :--- | :--- |
 | **XGBoost:** Used for Customer-First. It has **High Precision** and  minimizes false alarms. Best for keeping genuine users moving fast. |
 | **ANN:** Used for Security-First. It has **High Recall**. It caught **85%** of fraud in testing. Best for deep-scan security. |
 
